@@ -1,4 +1,4 @@
-### Hi there! I am Full Stack Developer Student - Cubos Academy
+### Hi there! My name is Bruno Moitinho and I am a Full Stack Developer Student - Cubos Academy!
 
 ![Snake animation](https://github.com/brmoitinho/brmoitinho/blob/output/github-contribution-grid-snake.svg)
 
