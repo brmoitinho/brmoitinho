@@ -1,8 +1,7 @@
 ### Hi there! I am Full Stack Developer Student - Cubos Academy
 
-<div>
 ![Snake animation](https://github.com/brmoitinho/brmoitinho/blob/output/github-contribution-grid-snake.svg)
-</div>
+
 
 <!--
 **brmoitinho/brmoitinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
