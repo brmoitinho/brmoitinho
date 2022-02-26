@@ -1,4 +1,4 @@
-### Hi there! My name is Bruno de Souza and I am a Frontend Developer!
+### Hi there! My name is Bruno de Souza and I am a Web Developer!
 
 ![Snake animation](https://github.com/brmoitinho/brmoitinho/blob/output/github-contribution-grid-snake.svg)
 
