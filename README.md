@@ -1,4 +1,4 @@
-### Hi there! My name is Bruno de Souza and I am a Data Scientist/Data Analyst!
+### Hi there! My name is Bruno de Souza!
 
 ![Snake animation](https://github.com/brmoitinho/brmoitinho/blob/output/github-contribution-grid-snake.svg)
 
